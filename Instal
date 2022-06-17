@@ -1,0 +1,4 @@
+CentOS has a full complement of man and info pages. The pinfo documentation reader is available and may be installed via yum. 
+Each package also may have additional documentation, which should be considered authoritative. 
+You may see what documentation a package has on your installation by running:
+rpm -qd (packagename)
